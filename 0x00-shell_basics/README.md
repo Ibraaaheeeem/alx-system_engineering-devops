@@ -13,3 +13,4 @@
 12-file_type: This script prints the file type of a file named iamafile located in the /tmp directory
 13-symbolic_link: Creates a symbolic link for /bin/ls named __ls__ located in the current working directory
 14-copy_html:This script copy html files from the current working directory to the parent directory when they don't exist or are newer than the existing file
+100-lets_move: This script copies all files beginning with an uppercase letter
