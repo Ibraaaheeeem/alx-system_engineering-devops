@@ -14,3 +14,4 @@
 13-symbolic_link: Creates a symbolic link for /bin/ls named __ls__ located in the current working directory
 14-copy_html:This script copy html files from the current working directory to the parent directory when they don't exist or are newer than the existing file
 100-lets_move: This script copies all files beginning with an uppercase letter
+101-clean_emacs: This script deletes all files that ends with the ~ charater
