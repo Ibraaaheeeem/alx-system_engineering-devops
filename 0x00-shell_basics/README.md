@@ -3,6 +3,7 @@
 2-bring_me_home: This script changes the working directory to the user's home directory
 3-listfiles: This script displays the current directory content in a long format
 4-listmorefiles: This file displays the current directory contents, including hidden files
-5cally
+5-listfilesdigitonly: This script displays current directory contents including hidden files in long format with user and group ids displayed numerically
 6-firstdirectory: This script creates a new directory named my_first_directory in the /tmp/ directory
-7-movethatfile: This script moves the file betty from /tmp/ into /temp/my_first_directory
+7-movethatfile: This script moves the file betty from /tmp/ into /tmp/my_first_directory
+8-firstdelete: This script deletes the betty file from the directory /tmp/my_first_directory
