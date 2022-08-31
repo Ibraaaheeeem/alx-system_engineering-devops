@@ -11,3 +11,4 @@
 10-back: This script returns the user to the previous directory
 11-lists: The script list the contents of the working directory, the parent directory and the /boot directory also showing hidden files in a long format
 12-file_type: This script prints the file type of a file named iamafile located in the /tmp directory
+13-symbolic_link: Creates a symbolic link for /bin/ls named __ls__ located in the current working directory
