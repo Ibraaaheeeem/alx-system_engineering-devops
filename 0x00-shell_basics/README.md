@@ -15,3 +15,4 @@
 14-copy_html:This script copy html files from the current working directory to the parent directory when they don't exist or are newer than the existing file
 100-lets_move: This script copies all files beginning with an uppercase letter
 101-clean_emacs: This script deletes all files that ends with the ~ charater
+102-tree: This script create the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
