@@ -5,3 +5,4 @@
 4-listmorefiles: This file displays the current directory contents, including hidden files
 5cally
 6-firstdirectory: This script creates a new directory named my_first_directory in the /tmp/ directory
+7-movethatfile: This script moves the file betty from /tmp/ into /temp/my_first_directory
