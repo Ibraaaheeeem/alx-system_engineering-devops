@@ -16,3 +16,4 @@
 100-lets_move: This script copies all files beginning with an uppercase letter
 101-clean_emacs: This script deletes all files that ends with the ~ charater
 102-tree: This script create the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+103-commas: This script lists all the files and directories of the current directory, separated by commas (,) including hidden files and alpha ordered
