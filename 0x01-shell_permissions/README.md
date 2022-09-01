@@ -12,3 +12,4 @@
 11-directories_permissions: This script adds execution to all subdirectories for owner, group and other users
 12-directory_permissions: This script creates a new directory my_dir with permissions 751
 13-change_group: This script changes the group of the file hello to school
+100-change_owner_and_group: This script changes the owner and group of all files and directories in the current working directory to vincent and staff respectively
