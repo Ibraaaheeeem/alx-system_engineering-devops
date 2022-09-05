@@ -14,3 +14,4 @@
 13-unique: This script sorts a list of words and returns each word only once
 14-findthatword: This script returns lines from /etc/passwd that matches root
 15-countthatword: This script counts the number of lines that matches the word 'bin' in /etc/passwd
+16-whatsnext: This script prints the lines from /etc/passwd that matches the word 'root' and 3 lines after each
