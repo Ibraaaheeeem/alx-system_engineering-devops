@@ -23,3 +23,4 @@
 22-users_and_homes: This script displays all users and their home directories, sorted by users
 100-empty_casks: This script displays only the file names of all empty files in the current directory and its subdirectories
 101-gifs: This script lists all gifs in the current directory and its subdirectories without the extension
+102-acrostic: This script decodes an acrostic
