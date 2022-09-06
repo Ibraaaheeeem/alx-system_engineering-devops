@@ -9,3 +9,4 @@
 8-true_knowledge: This script adds 128 to the value stored in the variable TRUEKNOWLEDGE
 9-divide_and_rule: This script prints the result of POWER divided by DIVIDE both environmental variables
 10-love_exponent_breath: This script prints the result of BREATH raised to the power of LOVE
+11-binary_to_decimal: This script converts a binary number stored in the variable $BINARY to DECIMAL
