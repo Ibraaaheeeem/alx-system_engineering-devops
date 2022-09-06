@@ -11,3 +11,4 @@
 10-love_exponent_breath: This script prints the result of BREATH raised to the power of LOVE
 11-binary_to_decimal: This script converts a binary number stored in the variable $BINARY to DECIMAL
 12-combinations: This script prints a combination of 2 charcters between a to z except oo
+13-print_float: This script prints a floating point number with 2 decimal places followed by a newline
