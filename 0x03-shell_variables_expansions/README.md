@@ -10,3 +10,4 @@
 9-divide_and_rule: This script prints the result of POWER divided by DIVIDE both environmental variables
 10-love_exponent_breath: This script prints the result of BREATH raised to the power of LOVE
 11-binary_to_decimal: This script converts a binary number stored in the variable $BINARY to DECIMAL
+12-combinations: This script prints a combination of 2 charcters between a to z except oo
