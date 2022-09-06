@@ -14,3 +14,4 @@
 13-print_float: This script prints a floating point number with 2 decimal places followed by a newline
 100-decimal_to_hexadecimal: This script converts a decimal number stored in the variable $DECIMAL to hexadecimal 
 101-rot13: This script encodes and decodes text using the rot13 encryption
+102-odd: This script prints odd-numbered lines from the input
