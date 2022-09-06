@@ -15,3 +15,4 @@
 100-decimal_to_hexadecimal: This script converts a decimal number stored in the variable $DECIMAL to hexadecimal 
 101-rot13: This script encodes and decodes text using the rot13 encryption
 102-odd: This script prints odd-numbered lines from the input
+103-water_and_stir: This script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
